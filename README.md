@@ -1,2 +1,2 @@
 # test
-test for pupil users.
+A test written for the Snake Battle Game.
